@@ -10,8 +10,8 @@
     <itunes:explicit>yes</itunes:explicit>
     <itunes:image href='https://api.tipeee.com/cache/20190725185431/media/200/200/zoom/1692412/045a56e05ae379645b73e55936b567540d9e79cd.jpg' />
   </channel>
-  <updated>2020-01-18T15:57:47.799Z</updated>
-  <entry>
+  <updated>2020-01-18T16:26:43.551Z</updated>
+  <item>
     <title>VegasCast 1 : En route pour la biture, euh non, l'aventure.</title>
     <link href='http://vicvault.captainweb.net/vegascast/vegascast01.mp3' />
     <guid>http://vicvault.captainweb.net/vegascast/vegascast01.mp3</guid>
@@ -22,5 +22,5 @@
     <itunes:author>Captainweb.net</itunes:author>
     <itunes:duration>00:30:42</itunes:duration>
     <enclosure url='http://vicvault.captainweb.net/vegascast/vegascast01.mp3' type='audio/mpeg' length='85416096' />
-  </entry>
+  </item>
 </rss>
