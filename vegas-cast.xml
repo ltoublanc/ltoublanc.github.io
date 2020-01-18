@@ -1,0 +1,26 @@
+<rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0'>
+  <channel>
+    <title>VegasCast</title>
+    <description>ADC does VEGAS</description>
+    <link href='https://fr.tipeee.com/adcvegas' />
+    <language>fr-fr</language>
+    <itunes:author>Captainweb.net</itunes:author>
+    <itunes:subtitle>ADC does VEGAS</itunes:subtitle>
+    <itunes:summary>ADC does VEGAS</itunes:summary>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:image href='https://api.tipeee.com/cache/20190725185431/media/200/200/zoom/1692412/045a56e05ae379645b73e55936b567540d9e79cd.jpg' />
+  </channel>
+  <updated>2020-01-18T15:57:47.799Z</updated>
+  <entry>
+    <title>VegasCast 1 : En route pour la biture, euh non, l'aventure.</title>
+    <link href='http://vicvault.captainweb.net/vegascast/vegascast01.mp3' />
+    <guid>http://vicvault.captainweb.net/vegascast/vegascast01.mp3</guid>
+    <updated>2019-08-07T10:58:32.000Z</updated>
+    <summary>Nous y voila! Dans vos oreilles émerveillées, le premier VegasCast enregistré avec les amis LTP, Manox et Misteur D la semaine dernière. On vous y parle du projet CES qu'on avait en tête depuis longtemps, du live surprise durant lequel nous avons annoncé la saison 11 et on termine en chanson ou presque. 35 minutes de bonheur auditif, ou de torture selon votre résistance.</summary>
+    <pubDate>Wed, 07 Aug 2019 10:58:32 CEST</pubDate>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:author>Captainweb.net</itunes:author>
+    <itunes:duration>00:30:42</itunes:duration>
+    <enclosure url='http://vicvault.captainweb.net/vegascast/vegascast01.mp3' type='audio/mpeg' length='85416096' />
+  </entry>
+</rss>
