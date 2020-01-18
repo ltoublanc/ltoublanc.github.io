@@ -9,7 +9,7 @@
     <itunes:summary>ADC does VEGAS</itunes:summary>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:image href='https://api.tipeee.com/cache/20190725185431/media/200/200/zoom/1692412/045a56e05ae379645b73e55936b567540d9e79cd.jpg' />
-    <updated>2020-01-18T16:29:03.836Z</updated>
+    <updated>2020-01-18T17:40:48.476Z</updated>
     <item>
       <title>VegasCast 1 : En route pour la biture, euh non, l'aventure.</title>
       <link href='http://vicvault.captainweb.net/vegascast/vegascast01.mp3' />
@@ -21,6 +21,126 @@
       <itunes:author>Captainweb.net</itunes:author>
       <itunes:duration>00:30:42</itunes:duration>
       <enclosure url='http://vicvault.captainweb.net/vegascast/vegascast01.mp3' type='audio/mpeg' length='85416096' />
+    </item>
+    <item>
+      <title>VegasCast 2 : Route 666</title>
+      <link href='http://vicvault.captainweb.net/vegascast/vegascast02.mp3' />
+      <guid>http://vicvault.captainweb.net/vegascast/vegascast02.mp3</guid>
+      <updated>2019-08-30T01:40:56.000Z</updated>
+      <summary>Et nous voici de retour pour vous prendre votre pognon. Fallait quand même se dépêcher avant que vous claquiez connement votre argent en fourniture scolaire ou boites de Valium.</summary>
+      <pubDate>Fri, 30 Aug 2019 01:40:56 CEST</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Captainweb.net</itunes:author>
+      <itunes:duration>00:30:42</itunes:duration>
+      <enclosure url='http://vicvault.captainweb.net/vegascast/vegascast02.mp3' type='audio/mpeg' length='105348144' />
+    </item>
+    <item>
+      <title>VegasCast 3 : un petit cours de langue avant de partir?</title>
+      <link href='http://vicvault.captainweb.net/vegascast/vegascast03.mp3' />
+      <guid>http://vicvault.captainweb.net/vegascast/vegascast03.mp3</guid>
+      <updated>2019-09-15T19:20:43.000Z</updated>
+      <summary>Yolo, nous voila de retour pour ce premier VegasCast de septembre avec une équipe folle : Misteur D, LTP, Manox et le Captain ! Au menu, un cours de langue anglaise / espagnole pour être prêt à discuter very fluent à Vegas.</summary>
+      <pubDate>Sun, 15 Sep 2019 07:20:43 CEST</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Captainweb.net</itunes:author>
+      <itunes:duration>00:30:42</itunes:duration>
+      <enclosure url='http://vicvault.captainweb.net/vegascast/vegascast03.mp3' type='audio/mpeg' length='76603692' />
+    </item>
+    <item>
+      <title>VegasCast 4 : 60 litres au cent pour le gros engin de Lord Ton Pere</title>
+      <link href='http://vicvault.captainweb.net/vegascast/vegascast04.mp3' />
+      <guid>http://vicvault.captainweb.net/vegascast/vegascast04.mp3</guid>
+      <updated>2019-09-30T15:48:06.000Z</updated>
+      <summary>Et voila, alors que nous sommes en live en ce moment même, magie de l'internet, nous vous publions le quatrième Vegas Cast, enregistré il y a deux semaines. Cette fois pas de cour de langue, mais une longue histoire de voiture. Car aller à Las Vegas c'est bien, mais y aller avec classe au volant d'un monstre américain à quatre roue c'est mieux! Alors ouais, notre bilan carbone va s'en ressentir, mais on va planter plein d'arbres dans le désert pour se faire pardonner, c'est promis!</summary>
+      <pubDate>Mon, 30 Sep 2019 03:48:06 CEST</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Captainweb.net</itunes:author>
+      <itunes:duration>00:30:42</itunes:duration>
+      <enclosure url='http://vicvault.captainweb.net/vegascast/vegascast04.mp3' type='audio/mpeg' length='94293272' />
+    </item>
+    <item>
+      <title>VegasCast 5 : Captain et Misteur D sont dans un (mini) podcast</title>
+      <link href='http://vicvault.captainweb.net/vegascast/vegascast05.mp3' />
+      <guid>http://vicvault.captainweb.net/vegascast/vegascast05.mp3</guid>
+      <updated>2019-10-21T16:30:17.000Z</updated>
+      <summary>Ok, ok, on est le 21 octobre et on aurait du vous envoyer ce VegasCast il y a 5 jours. Evidemment tout ça est de la faute de LTP (c'est toujours sa faute), et un tout petit peu de la mienne. Bref, l'heure est venu de punir votre compte en banque, et bien sur vos oreilles dans la foulée.</summary>
+      <pubDate>Mon, 21 Oct 2019 04:30:17 CEST</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Captainweb.net</itunes:author>
+      <itunes:duration>00:30:42</itunes:duration>
+      <enclosure url='http://vicvault.captainweb.net/vegascast/vegascast05.mp3' type='audio/mpeg' length='63366306' />
+    </item>
+    <item>
+      <title>YoloCast : le VegasCast de fin octobre qui arrive en novembre</title>
+      <link href='http://vicvault.captainweb.net/vegascast/vegascast06.mp3' />
+      <guid>http://vicvault.captainweb.net/vegascast/vegascast06.mp3</guid>
+      <updated>2019-11-08T14:01:48.000Z</updated>
+      <summary>Yolololol, l'équipe de l'adc est de retour, pour te voler dans l'arrière cour. Ça rime, c'est presque de la poésie et faut bien ça pour faire passer cette escroquerie de bas étage qu'est notre projet Vegas. Mine de rien, la date se rapproche et dans exactement deux mois à la même date, nous serons sur le strip à sniffer de la cocaine sur des fesses de strip-teaseuse.</summary>
+      <pubDate>Fri, 08 Nov 2019 02:01:48 CET</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Captainweb.net</itunes:author>
+      <itunes:duration>00:30:42</itunes:duration>
+      <enclosure url='http://vicvault.captainweb.net/vegascast/vegascast06.mp3' type='audio/mpeg' length='83791416' />
+    </item>
+    <item>
+      <title>VegasCast 7 : Un vegas cast avec LTP et Captain Web ou l'on parle (enfin) du CES</title>
+      <link href='http://vicvault.captainweb.net/vegascast/vegascast07.mp3' />
+      <guid>http://vicvault.captainweb.net/vegascast/vegascast07.mp3</guid>
+      <updated>2019-11-22T14:23:26.000Z</updated>
+      <summary>On rentre dans le vif du sujet avec cet épisode 7 du VegasCast : LE CES : qui est-il, douvientil et OuVatIl? Vous aurez au moins la réponse  à une partie de ces questions dans ce long podcast (plus d'une heure), relativement épargné par les bruits de bouche.</summary>
+      <pubDate>Fri, 22 Nov 2019 02:23:26 CET</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Captainweb.net</itunes:author>
+      <itunes:duration>00:30:42</itunes:duration>
+      <enclosure url='http://vicvault.captainweb.net/vegascast/vegascast07.mp3' type='audio/mpeg' length='167760524' />
+    </item>
+    <item>
+      <title>VegasCast 8 : Noël au balcon, LTP au tisson</title>
+      <link href='http://vicvault.captainweb.net/vegascast/vegascast08.mp3' />
+      <guid>http://vicvault.captainweb.net/vegascast/vegascast08.mp3</guid>
+      <updated>2019-12-23T01:33:36.000Z</updated>
+      <summary>Oui ce titre ne veut rien dire, mais le principal c'est que vous receviez ce nouveau VegasCast (et qu'accessoirement nous vous prenions de la thune pour notre voyage de bienfaisance dans les pires casinos de Vegas). Au programme, un podcast à deux avec Misteur D. Rassurez-vous, il n'y aura pas d'Otamatone, mais juste nos deux voix débitants des inepties.</summary>
+      <pubDate>Mon, 23 Dec 2019 01:33:36 CET</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Captainweb.net</itunes:author>
+      <itunes:duration>00:30:42</itunes:duration>
+      <enclosure url='http://vicvault.captainweb.net/vegascast/vegascast08.mp3' type='audio/mpeg' length='69954940' />
+    </item>
+    <item>
+      <title>VegasCast 9 : Le VegasCast du 31 décembre</title>
+      <link href='http://vicvault.captainweb.net/vegascast/vegascast09.mp3' />
+      <guid>http://vicvault.captainweb.net/vegascast/vegascast09.mp3</guid>
+      <updated>2019-12-31T22:40:58.000Z</updated>
+      <summary>Yololo, jusqu'au 31 décembre à 22h40, nous sommes à la barre pour vous rançonner! En plus c'est le bon moment, vous êtes tous en train de vous gaver de raclette et d’huîtres, je suis sur que vous ne remarquerez même pas cette maigre somme volée sur votre compte quelques minutes avant l'année 2020.</summary>
+      <pubDate>Tue, 31 Dec 2019 10:40:58 CET</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Captainweb.net</itunes:author>
+      <itunes:duration>00:30:42</itunes:duration>
+      <enclosure url='http://vicvault.captainweb.net/vegascast/vegascast09.mp3' type='audio/mpeg' length='64962418' />
+    </item>
+    <item>
+      <title>VegasCast 10 : Vegas nous voila!</title>
+      <link href='http://vicvault.captainweb.net/vegascast/vegascast10.mp3' />
+      <guid>http://vicvault.captainweb.net/vegascast/vegascast10.mp3</guid>
+      <updated>2020-01-12T12:05:47.000Z</updated>
+      <summary>Nous y voila! Après des mois de préparation, notre avion nous as déposé à Los Angeles lundi dernier. Dernière étape, la voiture pour Las Vegas et le CES qui commençait le lendemain! Dans ce premier VegasCast "Debrief", enregistré jeudi, en direct de notre voiture qui roulait à toute vitesse vers le grand canyon, on vous parle de nos premières heures aux US. Vous serez tout, même ce que vous auriez préféré ne jamais découvrir.</summary>
+      <pubDate>Sun, 12 Jan 2020 12:05:47 CET</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Captainweb.net</itunes:author>
+      <itunes:duration>00:30:42</itunes:duration>
+      <enclosure url='http://vicvault.captainweb.net/vegascast/vegascast10.mp3' type='audio/mpeg' length='203448584' />
+    </item>
+    <item>
+      <title>VegasCast 11 : Sur la route....</title>
+      <link href='http://vicvault.captainweb.net/vegascast/vegascost11.mp3' />
+      <guid>http://vicvault.captainweb.net/vegascast/vegascost11.mp3</guid>
+      <updated>2020-01-16T11:05:27.000Z</updated>
+      <summary>Yolo! Nous voila de retour dans le froid et les grèves parisiennes, mais ce n'est pas le moment de déprimer, car sous vos yeux ébahis, voici déjà le VegasCast #11, lui aussi enregistré en voiture alors que nous revenions vers Los Angeles jeudi soir dernier. Cette fois ci, nous vous parlons de notre départ de Vegas, avec une anecdote de qualité sur LTP, de notre visite au grand canyon, et d'autres trucs improbables, mais ne spoilons pas cet épisode. </summary>
+      <pubDate>Thu, 16 Jan 2020 11:05:27 CET</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Captainweb.net</itunes:author>
+      <itunes:duration>00:30:42</itunes:duration>
+      <enclosure url='http://vicvault.captainweb.net/vegascast/vegascost11.mp3' type='audio/mpeg' length='118594352' />
     </item>
   </channel>
 </rss>
